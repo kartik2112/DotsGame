@@ -16,11 +16,8 @@ Since, this is an old application, the latest Java versions don't support it pro
 
 # Screenshots
 
-<img src="/Screenshots/Screenshot 1.png" width="220px"/> 
-<img src="/Screenshots/Screenshot 2.png" width="220px"/>
-<img src="/Screenshots/Screenshot 3.png" width="220px"/>
-
-# Gameplay Videos (User v/s Computer)
+<img src="/Screenshots/Screenshot 1.PNG" width="220px"/>  <img src="/Screenshots/Screenshot 2.PNG" width="220px"/>
+<img src="/Screenshots/Screenshot 3.PNG" width="322px"/>
 
 # Contributors
 
